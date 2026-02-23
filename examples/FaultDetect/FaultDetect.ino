@@ -91,7 +91,7 @@ void setup() {
   rtd.setReferenceResistor(RREF_OHM);
   rtd.setR0(R0_OHM);
 
-  // Fault window in OHMS (safe for PT100)
+  // Fault window in Celsius (safe for PT100)
   rtd.setLowThreshold(20.0f);
   rtd.setHighThreshold(40.0f);
   rtd.clearFaults();
