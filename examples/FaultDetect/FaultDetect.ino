@@ -12,7 +12,7 @@
  * - Configurable chip select (CS) pin
  * - Support for PT100 RTD (R0 = 100 Ω)
  * - Reference resistor = 430 Ω
- * - Low and high threshold detection (e.g., 20–40 Ω)
+ * - Low and high threshold detection (e.g., 20–40 °C)
  * - Serial output of raw ADC code, resistance, temperature, and faults
  *
  * Connections:
